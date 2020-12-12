@@ -17,8 +17,8 @@ anchors:
 
     -[116,90, 156,198, 373,326]  # P5/32
 
-using data/gen_anchors/calculate_anchors.py
+see data/gen_anchors/calculate_anchors.py from 
 
-from https://github.com/PeterH0323/Smart_Construction
+https://github.com/PeterH0323/Smart_Construction
 
 
